@@ -1,0 +1,13 @@
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\Assignment02.1\Assignment02.1\bin\Debug\netcoreapp2.2\Assignment02.1.deps.json
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\Assignment02.1\Assignment02.1\bin\Debug\netcoreapp2.2\Assignment02.1.runtimeconfig.json
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\Assignment02.1\Assignment02.1\bin\Debug\netcoreapp2.2\Assignment02.1.runtimeconfig.dev.json
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\Assignment02.1\Assignment02.1\bin\Debug\netcoreapp2.2\Assignment02.1.dll
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\Assignment02.1\Assignment02.1\bin\Debug\netcoreapp2.2\Assignment02.1.pdb
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\Assignment02.1\Assignment02.1\bin\Debug\netcoreapp2.2\Assignment02.1.xml
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\Assignment02.1\Assignment02.1\obj\Debug\netcoreapp2.2\Assignment02.1.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\Assignment02.1\Assignment02.1\obj\Debug\netcoreapp2.2\Assignment02.1.AssemblyInfoInputs.cache
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\Assignment02.1\Assignment02.1\obj\Debug\netcoreapp2.2\Assignment02.1.AssemblyInfo.cs
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\Assignment02.1\Assignment02.1\obj\Debug\netcoreapp2.2\Assignment02.1.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\Assignment02.1\Assignment02.1\obj\Debug\netcoreapp2.2\Assignment02.1.dll
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\Assignment02.1\Assignment02.1\obj\Debug\netcoreapp2.2\Assignment02.1.pdb
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\Assignment02.1\Assignment02.1\obj\Debug\netcoreapp2.2\Assignment02.1.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Assignment02.1</name>
+    </assembly>
+    <members>
+        <member name="T:Assignment02._1.XMLComments">
+            <summary>
+            The program demonstrates the use of XML comments
+            
+            Class XMLComments contains comments in XML format
+            </summary>
+        </member>
+        <member name="M:Assignment02._1.XMLComments.Main(System.String[])">
+            <summary>
+            <c>Main</c> method is the entry pooint for a C# application
+            <param name="args">A list of command line arguents can be provided using <c> args</c></param>
+            <returns>Here the return type of Main method is void</returns>
+            </summary>
+            <remarks>
+            Main method can be dexlared with or without parameters
+            </remarks>
+        </member>
+    </members>
+</doc>
