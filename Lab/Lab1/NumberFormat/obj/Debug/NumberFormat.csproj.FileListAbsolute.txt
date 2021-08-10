@@ -1,0 +1,6 @@
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\NumberFormat\bin\Debug\NumberFormat.exe.config
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\NumberFormat\bin\Debug\NumberFormat.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\NumberFormat\bin\Debug\NumberFormat.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\NumberFormat\obj\Debug\NumberFormat.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\NumberFormat\obj\Debug\NumberFormat.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\NumberFormat\obj\Debug\NumberFormat.pdb

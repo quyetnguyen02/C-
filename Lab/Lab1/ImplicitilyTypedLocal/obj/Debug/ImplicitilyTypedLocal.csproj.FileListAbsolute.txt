@@ -1,0 +1,6 @@
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\ImplicitilyTypedLocal\bin\Debug\ImplicitilyTypedLocal.exe.config
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\ImplicitilyTypedLocal\bin\Debug\ImplicitilyTypedLocal.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\ImplicitilyTypedLocal\bin\Debug\ImplicitilyTypedLocal.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.pdb

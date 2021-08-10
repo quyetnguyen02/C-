@@ -1,0 +1,6 @@
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\DateTimeFormat\bin\Debug\DateTimeFormat.exe.config
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\DateTimeFormat\bin\Debug\DateTimeFormat.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\DateTimeFormat\bin\Debug\DateTimeFormat.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\DateTimeFormat\obj\Debug\DateTimeFormat.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\DateTimeFormat\obj\Debug\DateTimeFormat.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\DateTimeFormat\obj\Debug\DateTimeFormat.pdb
