@@ -1,0 +1,6 @@
+D:\FPTAPTECH\SEM2\C#\Lab\lab\Value Type\bin\Debug\Value Type.exe.config
+D:\FPTAPTECH\SEM2\C#\Lab\lab\Value Type\bin\Debug\Value Type.exe
+D:\FPTAPTECH\SEM2\C#\Lab\lab\Value Type\bin\Debug\Value Type.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\lab\Value Type\obj\Debug\Value Type.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\lab\Value Type\obj\Debug\Value Type.exe
+D:\FPTAPTECH\SEM2\C#\Lab\lab\Value Type\obj\Debug\Value Type.pdb
