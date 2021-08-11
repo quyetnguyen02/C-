@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C1EDAA6E-9199-46CD-965D-47E6696BE581}</ProjectGuid>
+    <ProjectGuid>{56341E00-1E25-4CBA-A79C-CE1E93C4932E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Value_Type</RootNamespace>
-    <AssemblyName>Value Type</AssemblyName>
+    <RootNamespace>DoItYourself3</RootNamespace>
+    <AssemblyName>DoItYourself3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Value Type.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\.editorconfig">
-      <Link>.editorconfig</Link>
-    </None>
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,0 +1,6 @@
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\DoItYourself3\bin\Debug\DoItYourself3.exe.config
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\DoItYourself3\bin\Debug\DoItYourself3.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\DoItYourself3\bin\Debug\DoItYourself3.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\DoItYourself3\obj\Debug\DoItYourself3.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\DoItYourself3\obj\Debug\DoItYourself3.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab1\DoItYourself3\obj\Debug\DoItYourself3.pdb
