@@ -1,0 +1,6 @@
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\ShowMeHow3\ShowMeHow3.3\bin\Debug\ShowMeHow3.3.exe.config
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\ShowMeHow3\ShowMeHow3.3\bin\Debug\ShowMeHow3.3.exe
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\ShowMeHow3\ShowMeHow3.3\bin\Debug\ShowMeHow3.3.pdb
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\ShowMeHow3\ShowMeHow3.3\obj\Debug\ShowMeHow3.3.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\ShowMeHow3\ShowMeHow3.3\obj\Debug\ShowMeHow3.3.exe
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\ShowMeHow3\ShowMeHow3.3\obj\Debug\ShowMeHow3.3.pdb
