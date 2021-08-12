@@ -1,0 +1,7 @@
+D:\FPTAPTECH\SEM2\C#\Demo\Wxample3\Wxample3\bin\Debug\Wxample3.exe.config
+D:\FPTAPTECH\SEM2\C#\Demo\Wxample3\Wxample3\bin\Debug\Wxample3.exe
+D:\FPTAPTECH\SEM2\C#\Demo\Wxample3\Wxample3\bin\Debug\Wxample3.pdb
+D:\FPTAPTECH\SEM2\C#\Demo\Wxample3\Wxample3\obj\Debug\Wxample3.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Demo\Wxample3\Wxample3\obj\Debug\Wxample3.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Demo\Wxample3\Wxample3\obj\Debug\Wxample3.exe
+D:\FPTAPTECH\SEM2\C#\Demo\Wxample3\Wxample3\obj\Debug\Wxample3.pdb
