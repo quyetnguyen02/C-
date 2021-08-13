@@ -10,25 +10,55 @@ namespace Wxample3
     {
         static void Main(string[] args)
         {
-            int a, b, c;
-            a = 5;
-            b = 6;
-            c = 7;
-            if(a<=b && b >= c)
-            {
-                Console.WriteLine("Ds da duoc sap xep tang dan");
-            }
-            else if(a>=b && b >= c)
-            {
-                Console.WriteLine("Ds sap xep giam dan");
+            Console.OutputEncoding = Encoding.UTF8;
 
-            }
-            else
-            {
-                Console.WriteLine("Ds can sap xep lai");
+            Console.WriteLine("Nhập vào số thứ 1: ");
+            int a = int.Parse(Console.ReadLine());
 
+            Console.WriteLine("Nhập vào số thứ 2: ");
+            int b = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Nhập vào số thứ 3: ");
+            int c = int.Parse(Console.ReadLine());
+
+            int max;
+
+            /* cách 1
+            if (max < b)
+            {
+                max = b;
             }
-            Console.ReadLine();
+
+            if (max < c)
+            {
+                max = c;
+            }
+            */
+
+            //cách 2
+            max = a > b ? a : b;
+            max = max > c ? max : c;
+
+
+            /*switch (max > b)
+            {
+                case true:
+                    switch (max > c)
+                    {
+                        case false:
+                            max = c;
+                            break;
+                    }
+                    break;
+                case false:
+                    max = b;
+                    break;
+            }*/
+
+            Console.WriteLine("Max trong 3 số {0}, {1}, {2} là {3}", a, b, c, max);
+
+            Console.ReadKey();
         }
     }
-}
+    }
+

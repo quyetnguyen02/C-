@@ -1,0 +1,7 @@
+D:\FPTAPTECH\SEM2\C#\Lab\V-league\V-league\obj\Debug\V-league.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Lab\V-league\V-league\obj\Debug\V-league.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\V-league\V-league\bin\Debug\V-league.exe.config
+D:\FPTAPTECH\SEM2\C#\Lab\V-league\V-league\bin\Debug\V-league.exe
+D:\FPTAPTECH\SEM2\C#\Lab\V-league\V-league\bin\Debug\V-league.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\V-league\V-league\obj\Debug\V-league.exe
+D:\FPTAPTECH\SEM2\C#\Lab\V-league\V-league\obj\Debug\V-league.pdb
