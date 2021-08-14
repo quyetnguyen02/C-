@@ -1,0 +1,7 @@
+D:\IT\fptaptech-sem2\sem2\C#\workshop\ss04\Bank\Bank\bin\Debug\Bank.exe.config
+D:\IT\fptaptech-sem2\sem2\C#\workshop\ss04\Bank\Bank\bin\Debug\Bank.exe
+D:\IT\fptaptech-sem2\sem2\C#\workshop\ss04\Bank\Bank\bin\Debug\Bank.pdb
+D:\IT\fptaptech-sem2\sem2\C#\workshop\ss04\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\IT\fptaptech-sem2\sem2\C#\workshop\ss04\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\IT\fptaptech-sem2\sem2\C#\workshop\ss04\Bank\Bank\obj\Debug\Bank.exe
+D:\IT\fptaptech-sem2\sem2\C#\workshop\ss04\Bank\Bank\obj\Debug\Bank.pdb
