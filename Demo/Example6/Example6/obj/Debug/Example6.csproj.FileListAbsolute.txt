@@ -1,0 +1,7 @@
+D:\FPTAPTECH\SEM2\C#\Demo\Example6\Example6\bin\Debug\Example6.exe.config
+D:\FPTAPTECH\SEM2\C#\Demo\Example6\Example6\bin\Debug\Example6.exe
+D:\FPTAPTECH\SEM2\C#\Demo\Example6\Example6\bin\Debug\Example6.pdb
+D:\FPTAPTECH\SEM2\C#\Demo\Example6\Example6\obj\Debug\Example6.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Demo\Example6\Example6\obj\Debug\Example6.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Demo\Example6\Example6\obj\Debug\Example6.exe
+D:\FPTAPTECH\SEM2\C#\Demo\Example6\Example6\obj\Debug\Example6.pdb

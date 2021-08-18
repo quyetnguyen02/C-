@@ -16,8 +16,9 @@ namespace Wxample3
             int k = Convert.ToInt32(Console.ReadLine());
             if ((i != j && j != k) || (i==j&&j!=k) ||(i!=j&&j==k) || (i==k&&j!=k))
             {
-               //toan tu 3 ngoi
-              int  max = i > j ? i : j;   max = max > k ? max : k;
+                //toan tu 3 ngoi
+                int max = (i > j ? i : j);   
+                max = max > k ? max : k;
                 Console.WriteLine("Max la: {0}", max);
             }
             else

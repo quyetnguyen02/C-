@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{793588E3-83F6-4140-AAC3-DEEF3B4D6FD5}</ProjectGuid>
+    <ProjectGuid>{20678650-50B5-4EC9-B888-879F2FD93726}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Wxample3</RootNamespace>
-    <AssemblyName>Wxample3</AssemblyName>
+    <RootNamespace>ShowMeHow5</RootNamespace>
+    <AssemblyName>ShowMeHow5</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Wxample3.Employee5.ObjectArray</StartupObject>
+    <StartupObject>ShowMeHow5.ShowMeHow5</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,10 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee5\Employee.cs" />
-    <Compile Include="StatementDemo.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StatementDemo2.cs" />
+    <Compile Include="ShowMeHow5.2.cs" />
+    <Compile Include="ShowMeHow5.3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
