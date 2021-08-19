@@ -1,0 +1,7 @@
+D:\FPTAPTECH\SEM2\C#\Lab\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\FPTAPTECH\SEM2\C#\Lab\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab2\Lab2\obj\Debug\Lab2.pdb
