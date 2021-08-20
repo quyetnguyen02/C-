@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Lab3.TestAtom</StartupObject>
+    <StartupObject>Lab3.Employee</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="Atom.cs" />
     <Compile Include="button.cs" />
     <Compile Include="Car.cs" />
+    <Compile Include="Employee.cs" />
     <Compile Include="ListBox.cs" />
     <Compile Include="polymorphism.cs" />
     <Compile Include="program.cs" />

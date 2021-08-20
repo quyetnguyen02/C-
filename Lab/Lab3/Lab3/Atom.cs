@@ -20,13 +20,7 @@ namespace Lab3
             atomicName = atomicName;
             atomicWeight = atomicWeight;
         }
-        public Atom(int atomicNumber,string atomicSymbol ,string atomicName, double atomicWeight)
-        {
-            this.atomicNumber = atomicNumber;
-            this.atomicSymbol = atomicSymbol;
-            this.atomicName = atomicName;
-            this.atomicWeight = atomicWeight;
-        }
+        
 
 
         public virtual void Display()
