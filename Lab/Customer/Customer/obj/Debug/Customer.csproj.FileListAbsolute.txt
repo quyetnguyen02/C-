@@ -1,0 +1,7 @@
+D:\FPTAPTECH\SEM2\C#\Lab\Customer\Customer\bin\Debug\Customer.exe.config
+D:\FPTAPTECH\SEM2\C#\Lab\Customer\Customer\bin\Debug\Customer.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Customer\Customer\bin\Debug\Customer.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Customer\Customer\obj\Debug\Customer.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Customer\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Customer\Customer\obj\Debug\Customer.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Customer\Customer\obj\Debug\Customer.pdb
