@@ -1,0 +1,6 @@
+D:\FPTAPTECH\SEM2\C#\Lab\Customer\‘FinallyStmt’\bin\Debug\‘FinallyStmt’.exe.config
+D:\FPTAPTECH\SEM2\C#\Lab\Customer\‘FinallyStmt’\bin\Debug\‘FinallyStmt’.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Customer\‘FinallyStmt’\bin\Debug\‘FinallyStmt’.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Customer\‘FinallyStmt’\obj\Debug\‘FinallyStmt’.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Customer\‘FinallyStmt’\obj\Debug\‘FinallyStmt’.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Customer\‘FinallyStmt’\obj\Debug\‘FinallyStmt’.pdb
