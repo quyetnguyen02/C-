@@ -1,0 +1,6 @@
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Bank_Account\bin\Debug\Bank_Account.exe.config
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Bank_Account\bin\Debug\Bank_Account.exe
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Bank_Account\bin\Debug\Bank_Account.pdb
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Bank_Account\obj\Debug\Bank Account.csproj.CoreCompileInputs.cache
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Bank_Account\obj\Debug\Bank_Account.exe
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Bank_Account\obj\Debug\Bank_Account.pdb

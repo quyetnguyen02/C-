@@ -1,0 +1,6 @@
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Test Clilent\bin\Debug\Test Clilent.exe.config
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Test Clilent\bin\Debug\Test Clilent.exe
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Test Clilent\bin\Debug\Test Clilent.pdb
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Test Clilent\obj\Debug\Test Clilent.csproj.CoreCompileInputs.cache
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Test Clilent\obj\Debug\Test Clilent.exe
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Test Clilent\obj\Debug\Test Clilent.pdb

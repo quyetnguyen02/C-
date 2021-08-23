@@ -1,0 +1,7 @@
+D:\FPTAPTECH\SEM2\C#\Demo\Exmaple07\Person Class\bin\Debug\Person Class.exe.config
+D:\FPTAPTECH\SEM2\C#\Demo\Exmaple07\Person Class\bin\Debug\Person Class.exe
+D:\FPTAPTECH\SEM2\C#\Demo\Exmaple07\Person Class\bin\Debug\Person Class.pdb
+D:\FPTAPTECH\SEM2\C#\Demo\Exmaple07\Person Class\obj\Debug\Person Class.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Demo\Exmaple07\Person Class\obj\Debug\Person Class.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Demo\Exmaple07\Person Class\obj\Debug\Person Class.exe
+D:\FPTAPTECH\SEM2\C#\Demo\Exmaple07\Person Class\obj\Debug\Person Class.pdb

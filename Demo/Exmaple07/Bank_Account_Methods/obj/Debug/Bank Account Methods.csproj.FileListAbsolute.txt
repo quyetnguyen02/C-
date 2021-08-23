@@ -1,0 +1,7 @@
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Bank_Account_Methods\bin\Debug\Bank_Account_Methods.exe.config
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Bank_Account_Methods\bin\Debug\Bank_Account_Methods.exe
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Bank_Account_Methods\bin\Debug\Bank_Account_Methods.pdb
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Bank_Account_Methods\obj\Debug\Bank Account Methods.csproj.CoreCompileInputs.cache
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Bank_Account_Methods\obj\Debug\Bank_Account_Methods.exe
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Bank_Account_Methods\obj\Debug\Bank_Account_Methods.pdb
+C:\Users\thdat\OneDrive\Documents\fptAptechT2010M\SEM 1234\fptaptech-sem1\Sem02\C#\Demo\Example07\Exmaple07\Bank_Account_Methods\obj\Debug\Bank Account Methods.csproj.AssemblyReference.cache
