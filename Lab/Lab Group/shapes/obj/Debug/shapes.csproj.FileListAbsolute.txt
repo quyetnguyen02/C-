@@ -1,0 +1,7 @@
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\shapes\obj\Debug\shapes.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\shapes\obj\Debug\shapes.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\shapes\bin\Debug\shapes.exe.config
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\shapes\bin\Debug\shapes.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\shapes\bin\Debug\shapes.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\shapes\obj\Debug\shapes.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\shapes\obj\Debug\shapes.pdb

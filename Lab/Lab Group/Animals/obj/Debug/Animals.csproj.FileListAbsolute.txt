@@ -1,0 +1,7 @@
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Animals\bin\Debug\Animals.exe.config
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Animals\bin\Debug\Animals.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Animals\bin\Debug\Animals.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Animals\obj\Debug\Animals.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Animals\obj\Debug\Animals.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Animals\obj\Debug\Animals.pdb
