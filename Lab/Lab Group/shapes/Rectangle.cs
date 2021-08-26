@@ -21,24 +21,35 @@ namespace shapes
         }
 
 
+
+
+        /*  private void DrawLine(int width, char end, char mid)
+          {
+              Console.Write(end);
+              for (int i = 1; i < width-1; i++)
+              {
+                  Console.Write(mid);
+              }
+              Console.Write(end);
+          }*/
+
         public void Draw()
         {
-            DrawLine(this.Width, '*', '*');
-            for (int i = 1; i < this.height - 1; i++)
+            for (int i = 1; i <= width; i++)
             {
-                DrawLine(this.width, ' ', '*');
-            }
-            DrawLine(this.width, '*', '*');
-        }
+                for (int k = 1; k <= height; k++)
+                {
+                    if (i == 1 || k == 1 || i == width || k == height)
+                    {
+                        Console.Write("*");
+                    }
+                    else
+                    {
+                        Console.Write(" ");
+                    }
+                }
 
-        private void DrawLine(int width, char end, char mid)
-        {
-            Console.Write(end);
-            for (int i = 1; i < width - 1; i++)
-            {
-                Console.Write(mid);
             }
-            Console.Write(end);
         }
     }
 }

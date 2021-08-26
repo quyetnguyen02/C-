@@ -1,0 +1,12 @@
+E:\DEV\C#\ConsoleApp1\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+E:\DEV\C#\ConsoleApp1\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+E:\DEV\C#\ConsoleApp1\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+E:\DEV\C#\ConsoleApp1\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+E:\DEV\C#\ConsoleApp1\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+E:\DEV\C#\ConsoleApp1\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+E:\DEV\C#\ConsoleApp1\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+E:\DEV\C#\ConsoleApp1\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+E:\DEV\C#\ConsoleApp1\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+E:\DEV\C#\ConsoleApp1\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+E:\DEV\C#\ConsoleApp1\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+E:\DEV\C#\ConsoleApp1\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\DEV\C#\ConsoleApp1\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.AssemblyInfoInputs.cache
+E:\DEV\C#\ConsoleApp1\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.AssemblyInfo.cs
+E:\DEV\C#\ConsoleApp1\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.csproj.CoreCompileInputs.cache
+E:\DEV\C#\ConsoleApp1\Vihacle\bin\Debug\netcoreapp3.1\Vihacle.exe
+E:\DEV\C#\ConsoleApp1\Vihacle\bin\Debug\netcoreapp3.1\Vihacle.deps.json
+E:\DEV\C#\ConsoleApp1\Vihacle\bin\Debug\netcoreapp3.1\Vihacle.runtimeconfig.json
+E:\DEV\C#\ConsoleApp1\Vihacle\bin\Debug\netcoreapp3.1\Vihacle.runtimeconfig.dev.json
+E:\DEV\C#\ConsoleApp1\Vihacle\bin\Debug\netcoreapp3.1\Vihacle.dll
+E:\DEV\C#\ConsoleApp1\Vihacle\bin\Debug\netcoreapp3.1\Vihacle.pdb
+E:\DEV\C#\ConsoleApp1\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.dll
+E:\DEV\C#\ConsoleApp1\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.pdb
+E:\DEV\C#\ConsoleApp1\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.genruntimeconfig.cache
+E:\DEV\C#\ConsoleApp1\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.csproj.AssemblyReference.cache

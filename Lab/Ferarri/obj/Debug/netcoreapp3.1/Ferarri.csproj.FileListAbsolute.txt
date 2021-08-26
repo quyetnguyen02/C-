@@ -1,0 +1,13 @@
+E:\DEV\C#\ConsoleApp1\Ferarri\bin\Debug\netcoreapp3.1\Ferarri.exe
+E:\DEV\C#\ConsoleApp1\Ferarri\bin\Debug\netcoreapp3.1\Ferarri.deps.json
+E:\DEV\C#\ConsoleApp1\Ferarri\bin\Debug\netcoreapp3.1\Ferarri.runtimeconfig.json
+E:\DEV\C#\ConsoleApp1\Ferarri\bin\Debug\netcoreapp3.1\Ferarri.runtimeconfig.dev.json
+E:\DEV\C#\ConsoleApp1\Ferarri\bin\Debug\netcoreapp3.1\Ferarri.dll
+E:\DEV\C#\ConsoleApp1\Ferarri\bin\Debug\netcoreapp3.1\Ferarri.pdb
+E:\DEV\C#\ConsoleApp1\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.csproj.AssemblyReference.cache
+E:\DEV\C#\ConsoleApp1\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.AssemblyInfoInputs.cache
+E:\DEV\C#\ConsoleApp1\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.AssemblyInfo.cs
+E:\DEV\C#\ConsoleApp1\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.csproj.CoreCompileInputs.cache
+E:\DEV\C#\ConsoleApp1\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.dll
+E:\DEV\C#\ConsoleApp1\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.pdb
+E:\DEV\C#\ConsoleApp1\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.genruntimeconfig.cache
