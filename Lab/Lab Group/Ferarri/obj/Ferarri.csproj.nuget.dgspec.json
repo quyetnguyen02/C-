@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DEV\\C#\\ConsoleApp1\\Ferarri\\Ferarri.csproj": {}
+    "D:\\FPTAPTECH\\SEM2\\C#\\Lab\\Lab Group\\Ferarri\\Ferarri.csproj": {}
   },
   "projects": {
-    "E:\\DEV\\C#\\ConsoleApp1\\Ferarri\\Ferarri.csproj": {
+    "D:\\FPTAPTECH\\SEM2\\C#\\Lab\\Lab Group\\Ferarri\\Ferarri.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DEV\\C#\\ConsoleApp1\\Ferarri\\Ferarri.csproj",
+        "projectUniqueName": "D:\\FPTAPTECH\\SEM2\\C#\\Lab\\Lab Group\\Ferarri\\Ferarri.csproj",
         "projectName": "Ferarri",
-        "projectPath": "E:\\DEV\\C#\\ConsoleApp1\\Ferarri\\Ferarri.csproj",
-        "packagesPath": "C:\\Users\\HL2020\\.nuget\\packages\\",
-        "outputPath": "E:\\DEV\\C#\\ConsoleApp1\\Ferarri\\obj\\",
+        "projectPath": "D:\\FPTAPTECH\\SEM2\\C#\\Lab\\Lab Group\\Ferarri\\Ferarri.csproj",
+        "packagesPath": "C:\\Users\\QuyetNV\\.nuget\\packages\\",
+        "outputPath": "D:\\FPTAPTECH\\SEM2\\C#\\Lab\\Lab Group\\Ferarri\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HL2020\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\QuyetNV\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

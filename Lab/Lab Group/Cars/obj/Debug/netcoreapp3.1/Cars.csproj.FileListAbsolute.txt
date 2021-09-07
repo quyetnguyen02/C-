@@ -10,3 +10,16 @@ E:\DEV\C#\ConsoleApp1\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs
 E:\DEV\C#\ConsoleApp1\Cars\obj\Debug\netcoreapp3.1\Cars.dll
 E:\DEV\C#\ConsoleApp1\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
 E:\DEV\C#\ConsoleApp1\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

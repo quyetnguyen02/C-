@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab Group", "Lab Group\Lab Group.csproj", "{15C761FD-241F-401E-A81B-DE8F78F8B40A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperation", "Lab Group\MathOperation.csproj", "{15C761FD-241F-401E-A81B-DE8F78F8B40A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{8D78B8F8-0932-4BB7-9470-983CCD3D42C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shapes", "shapes\shapes.csproj", "{BEAEB6A0-CEC6-46FF-84B5-DCC2310B61DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ferarri", "Ferarri\Ferarri.csproj", "{424EA8FD-8042-4112-9D10-5D7DF430F2DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vihacle", "Vihacle\Vihacle.csproj", "{FB8D329F-7ED4-4C88-8DA3-A34E8F47448A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cars", "Cars\Cars.csproj", "{3FC30EF2-1A33-437A-9F46-04B484E5E92F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{BEAEB6A0-CEC6-46FF-84B5-DCC2310B61DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEAEB6A0-CEC6-46FF-84B5-DCC2310B61DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEAEB6A0-CEC6-46FF-84B5-DCC2310B61DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424EA8FD-8042-4112-9D10-5D7DF430F2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424EA8FD-8042-4112-9D10-5D7DF430F2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424EA8FD-8042-4112-9D10-5D7DF430F2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424EA8FD-8042-4112-9D10-5D7DF430F2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8D329F-7ED4-4C88-8DA3-A34E8F47448A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8D329F-7ED4-4C88-8DA3-A34E8F47448A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8D329F-7ED4-4C88-8DA3-A34E8F47448A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8D329F-7ED4-4C88-8DA3-A34E8F47448A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC30EF2-1A33-437A-9F46-04B484E5E92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC30EF2-1A33-437A-9F46-04B484E5E92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC30EF2-1A33-437A-9F46-04B484E5E92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC30EF2-1A33-437A-9F46-04B484E5E92F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

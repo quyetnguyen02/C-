@@ -1,0 +1,7 @@
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\ShowMeHow5\ShowMeHow5\bin\Debug\ShowMeHow5.exe.config
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\ShowMeHow5\ShowMeHow5\bin\Debug\ShowMeHow5.exe
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\ShowMeHow5\ShowMeHow5\bin\Debug\ShowMeHow5.pdb
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\ShowMeHow5\ShowMeHow5\obj\Debug\ShowMeHow5.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\ShowMeHow5\ShowMeHow5\obj\Debug\ShowMeHow5.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\ShowMeHow5\ShowMeHow5\obj\Debug\ShowMeHow5.exe
+D:\FPTAPTECH\SEM2\C#\ShowMeHow\ShowMeHow5\ShowMeHow5\obj\Debug\ShowMeHow5.pdb

@@ -11,3 +11,16 @@ E:\DEV\C#\ConsoleApp1\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.dll
 E:\DEV\C#\ConsoleApp1\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.pdb
 E:\DEV\C#\ConsoleApp1\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.genruntimeconfig.cache
 E:\DEV\C#\ConsoleApp1\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Vihacle\bin\Debug\netcoreapp3.1\Vihacle.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Vihacle\bin\Debug\netcoreapp3.1\Vihacle.deps.json
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Vihacle\bin\Debug\netcoreapp3.1\Vihacle.runtimeconfig.json
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Vihacle\bin\Debug\netcoreapp3.1\Vihacle.runtimeconfig.dev.json
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Vihacle\bin\Debug\netcoreapp3.1\Vihacle.dll
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Vihacle\bin\Debug\netcoreapp3.1\Vihacle.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.AssemblyInfoInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.AssemblyInfo.cs
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.dll
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Vihacle\obj\Debug\netcoreapp3.1\Vihacle.genruntimeconfig.cache

@@ -11,3 +11,16 @@ E:\DEV\C#\ConsoleApp1\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.csproj.CoreCompile
 E:\DEV\C#\ConsoleApp1\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.dll
 E:\DEV\C#\ConsoleApp1\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.pdb
 E:\DEV\C#\ConsoleApp1\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.genruntimeconfig.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Ferarri\bin\Debug\netcoreapp3.1\Ferarri.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Ferarri\bin\Debug\netcoreapp3.1\Ferarri.deps.json
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Ferarri\bin\Debug\netcoreapp3.1\Ferarri.runtimeconfig.json
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Ferarri\bin\Debug\netcoreapp3.1\Ferarri.runtimeconfig.dev.json
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Ferarri\bin\Debug\netcoreapp3.1\Ferarri.dll
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Ferarri\bin\Debug\netcoreapp3.1\Ferarri.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.AssemblyInfoInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.AssemblyInfo.cs
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.dll
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Lab Group\Ferarri\obj\Debug\netcoreapp3.1\Ferarri.genruntimeconfig.cache

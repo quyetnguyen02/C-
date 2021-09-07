@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\HL2020\\.nuget\\packages\\": {}
+    "C:\\Users\\QuyetNV\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEV\\C#\\ConsoleApp1\\Vihacle\\Vihacle.csproj",
+      "projectUniqueName": "D:\\FPTAPTECH\\SEM2\\C#\\Lab\\Lab Group\\Vihacle\\Vihacle.csproj",
       "projectName": "Vihacle",
-      "projectPath": "E:\\DEV\\C#\\ConsoleApp1\\Vihacle\\Vihacle.csproj",
-      "packagesPath": "C:\\Users\\HL2020\\.nuget\\packages\\",
-      "outputPath": "E:\\DEV\\C#\\ConsoleApp1\\Vihacle\\obj\\",
+      "projectPath": "D:\\FPTAPTECH\\SEM2\\C#\\Lab\\Lab Group\\Vihacle\\Vihacle.csproj",
+      "packagesPath": "C:\\Users\\QuyetNV\\.nuget\\packages\\",
+      "outputPath": "D:\\FPTAPTECH\\SEM2\\C#\\Lab\\Lab Group\\Vihacle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HL2020\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\QuyetNV\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
