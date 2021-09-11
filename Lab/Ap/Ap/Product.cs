@@ -43,8 +43,9 @@ namespace Ap
         public void Display()
         {
             WriteLine("ProductID: {0}", ProductID);
-            WriteLine("ProductName: ", ProductName);
-            WriteLine("Price: ", Price);
+            WriteLine("ProductName:{0} ", ProductName);
+            WriteLine("Price:{0} ", Price);
+            WriteLine("---------------------");
 
         }
 

@@ -15,23 +15,25 @@ namespace Ap
 
         public void MenuMain()
         {
-            WriteLine("1. Add product records");
-            WriteLine("2. Display product records");
-            WriteLine("3. Delete product by Id");
-            WriteLine("4. Exit");
-            choose = int.Parse(ReadLine());
 
+            
             do
             {
+                MenuAp();
+            choose = int.Parse(ReadLine());
+
                 switch (choose)
                 {
                     case 1:
+                        Clear();
                         Add();
                         break;
                     case 2:
+                        Clear();
                         Display();
                         break;
                     case 3:
+                        Clear();
                         Remote(product);
                         break;
                     case 4:
@@ -45,20 +47,33 @@ namespace Ap
 
 
         }
+        public void MenuAp()
+        {
+            WriteLine("1. Add product records");
+            WriteLine("2. Display product records");
+            WriteLine("3. Delete product by Id");
+            WriteLine("4. Exit");
+        }
 
 
         public void Add()
         {
+
             string choose;
-            
-            
+
+            while (true)
+            {
                 Product pro = new Product();
                 pro.Create();
 
                 product.Add(pro);
-            WriteLine("thanh cong");
 
-           
+                Console.WriteLine("Do You Want To Enter Next?");
+                choose = Console.ReadLine();
+                if (choose.Equals("N")) break;
+
+            }
+
         }
 
         public void Display()
@@ -73,12 +88,11 @@ namespace Ap
         public void Remote(List<Product> product)
         {
             WriteLine("Enter the productI you want to delete");
-            string id = ReadLine();
-            foreach (var item in product)
-            {
-                product.RemoveAt(item.ProductID);
-                WriteLine("xoa thanh cong");
-            }
+            int index = int.Parse(ReadLine());
+           
+                product.RemoveAt(index);
+                WriteLine("successful delete");
+            
 
 
         }
