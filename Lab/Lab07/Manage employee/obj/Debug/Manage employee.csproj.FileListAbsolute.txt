@@ -1,0 +1,7 @@
+D:\FPTAPTECH\SEM2\C-\Lab\Lab07\Manage employee\bin\Debug\Manage employee.exe.config
+D:\FPTAPTECH\SEM2\C-\Lab\Lab07\Manage employee\bin\Debug\Manage employee.exe
+D:\FPTAPTECH\SEM2\C-\Lab\Lab07\Manage employee\bin\Debug\Manage employee.pdb
+D:\FPTAPTECH\SEM2\C-\Lab\Lab07\Manage employee\obj\Debug\Manage employee.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C-\Lab\Lab07\Manage employee\obj\Debug\Manage employee.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C-\Lab\Lab07\Manage employee\obj\Debug\Manage employee.exe
+D:\FPTAPTECH\SEM2\C-\Lab\Lab07\Manage employee\obj\Debug\Manage employee.pdb

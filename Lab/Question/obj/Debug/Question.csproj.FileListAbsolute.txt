@@ -1,0 +1,7 @@
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\bin\Debug\Question.exe.config
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\bin\Debug\Question.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\bin\Debug\Question.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\obj\Debug\Question.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\obj\Debug\Question.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\obj\Debug\Question.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\obj\Debug\Question.pdb

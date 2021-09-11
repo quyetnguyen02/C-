@@ -1,0 +1,14 @@
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\bin\Debug\Question.exe.config
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\bin\Debug\Question.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\bin\Debug\Question.pdb
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\obj\Debug\Questions.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\obj\Debug\Questions.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\obj\Debug\Question.exe
+D:\FPTAPTECH\SEM2\C#\Lab\Question\Question\obj\Debug\Question.pdb
+D:\FPTAPTECH\SEM2\C-\Lab\Question\bin\Debug\Question.exe.config
+D:\FPTAPTECH\SEM2\C-\Lab\Question\bin\Debug\Question.exe
+D:\FPTAPTECH\SEM2\C-\Lab\Question\bin\Debug\Question.pdb
+D:\FPTAPTECH\SEM2\C-\Lab\Question\obj\Debug\Questions.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C-\Lab\Question\obj\Debug\Questions.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C-\Lab\Question\obj\Debug\Question.exe
+D:\FPTAPTECH\SEM2\C-\Lab\Question\obj\Debug\Question.pdb

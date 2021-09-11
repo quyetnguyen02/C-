@@ -1,0 +1,7 @@
+D:\FPTAPTECH\SEM2\C#\Demo\Example12\Example12\obj\Debug\Example12.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM2\C#\Demo\Example12\Example12\obj\Debug\Example12.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM2\C#\Demo\Example12\Example12\bin\Debug\Example12.exe.config
+D:\FPTAPTECH\SEM2\C#\Demo\Example12\Example12\bin\Debug\Example12.exe
+D:\FPTAPTECH\SEM2\C#\Demo\Example12\Example12\bin\Debug\Example12.pdb
+D:\FPTAPTECH\SEM2\C#\Demo\Example12\Example12\obj\Debug\Example12.exe
+D:\FPTAPTECH\SEM2\C#\Demo\Example12\Example12\obj\Debug\Example12.pdb
